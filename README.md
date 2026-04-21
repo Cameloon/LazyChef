@@ -50,15 +50,13 @@ LazyChef ist in JavaScript/TypeScript geschrieben und nutzt das pfeilschnelle [B
    git clone [https://github.com/DEIN_USERNAME/LazyChef.git](https://github.com/DEIN_USERNAME/LazyChef.git)
    cd LazyChef
    bun install
-   ```
 
 2. **Umgebungsvariablen konfigurieren:** 
 Erstelle im Projekt-Root eine .env-Datei und trage deinen OpenAI-Schlüssel ein:
    ```bash
 OPENAI_API_KEY=your_actual_api_key_here
-   ```
+
 
 3. **App starten:**
-   ```Bash
+   ```bash
 bun run .
-   ```
