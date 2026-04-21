@@ -1,0 +1,7 @@
+node_modules/
+*.sqlite
+db/*.sqlite
+db/.test-data/
+.env
+package-lock.json
+*.traineddata
